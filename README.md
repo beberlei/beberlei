@@ -6,7 +6,7 @@ I am Benjamin and working on various projects in the PHP community:
 - Contributing to PHP Core, for example [Attributes](https://www.php.net/manual/de/language.attributes.php) and [DOM Improvements](https://wiki.php.net/rfc/dom_living_standard_api).
 - [Gyro](https://github.com/gyro-project/mvc-bundle), an opinionated framework on top of Symfony framework
 
-If you want to support my work I would be happy if you look into my companies
+If you want to support my work I would be happy if you look into my company's
 product [Tideways](https://tideways.com). [Tideways](https://tideways.com) is a
 PHP Profiler, Monitoring and Exception Tracking tool in one.
 
